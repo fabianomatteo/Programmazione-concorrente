@@ -4,7 +4,7 @@
 
 int main(void) {
     const char *nome = "Matteo";
-    const char *messaggio = "Hello World dell'esercizio b.";
+    const char *messaggio = "Hello World sotto controllo versione con Git.";
 
     printf("Hello, World!\n");
     printf("Studente: %s\n", nome);
